@@ -1,12 +1,13 @@
 ### Hi there, my name is Yohn Cheung
 
-## Front-end Software Engineer at [Simac Triangle, Eindhoven](https://www.simac.com/en/simac-triangle)
+## IT Interim Professional | Front-end Software Engineer  at [Evoke, Weert](https://evokestaffing.com/nl/professionals/informatie-technologie/#evoker-60401)
 
 
 ```javascript
 const summary = {
-  code: ['HTML5', 'CSS', 'Javascript', 'PHP'],
-  frameworks: ['Vue', 'Quasar', 'Bootstrap'],
+  web: ['HTML', 'CSS', 'JavaScript', 'PHP', 'WordPress', 'Node.js'],
+  databases: ['MySQL', 'phpMyAdmin'],
+  frameworks: ['Vue', 'Laravel', 'Bootstrap', 'Quasar', 'AWS Amplify'],
   design: ['Adobe XD', 'Photoshop', 'Figma'],
   languages: ['Dutch', 'English', 'German', 'Chinese'],
 }
