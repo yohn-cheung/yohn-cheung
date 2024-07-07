@@ -1,6 +1,6 @@
 ### Hi there, my name is Yohn Cheung
 
-## IT Interim Professional | Front-end Software Engineer  at [Evoke, Weert](https://evokestaffing.com/nl/professionals/informatie-technologie/#evoker-60401)
+## IT Interim Professional | Full-stack developer  at [Evoke, Weert](https://evokestaffing.com/nl/professionals/informatie-technologie/#evoker-60401)
 
 
 ```javascript
