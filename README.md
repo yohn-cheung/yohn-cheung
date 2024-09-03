@@ -1,7 +1,6 @@
 ### Hi there, my name is Yohn Cheung
 
-## IT Interim Professional | Full-stack developer  at [Evoke, Weert](https://evokestaffing.com/nl/professionals/informatie-technologie/#evoker-60401)
-
+## Full-stack developer | TALL stack (Tailwind, Alpine, Laravel, Livewire)
 
 ```javascript
 const summary = {
